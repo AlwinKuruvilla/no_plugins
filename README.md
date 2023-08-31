@@ -9,7 +9,7 @@ Basic ([Digital](https://thingsfittogether.com/product/vim-basics-cheat-sheet-di
 
 ![Basic Vim Cheat Sheet](https://thingsfittogether.com/wp-content/uploads/2021/03/Vim-Cheatsheet-2-Final-Draft.png)
 
-Advanced ([Digital](https://thingsfittogether.com/product/vim-cheat-sheet-basics-print/) | [Print](https://thingsfittogether.com/product/vim-cheat-sheet-advanced-print/)):
+Advanced ([Digital](https://thingsfittogether.com/product/vim-cheat-sheet-advanced-digital-download/) | [Print](https://thingsfittogether.com/product/vim-cheat-sheet-advanced-print/)):
 
 ![Advanced Vim Cheat Sheet](https://thingsfittogether.com/wp-content/uploads/2020/12/vimposterv1movie.png)
 
